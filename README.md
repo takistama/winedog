@@ -1,5 +1,7 @@
 # winedog
 
+IMPORTANT: I (might) rewrite it in c++ because it will be easier to implement some higher level features down the road
+
 winedog is a simple kernel I wrote to relearn C and x86_asm. It runs in 32bit mode and uses GRUB as a bootloader to satisfy my lazy side.
 
   - Currently has a (basic) C library that allows for (simple task) commands to be created.
